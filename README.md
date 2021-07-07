@@ -1,1 +1,3 @@
 # clock
+
+![Screenshot](screenshot.png)
